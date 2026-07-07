@@ -10,7 +10,8 @@ En ajoutant ou en utilisant ce bot sur un serveur Discord, vous acceptez les pr�
 
 2. Description du service
 
-Le bot a pour but de partager et gérer des liens de playlists Spotify, ainsi que d’éventuelles fonctionnalités musicales ou communautaires futures.
+Le bot a pour but de partager et gérer des liens de playlists Spotify, ainsi que d’éventuelles fonctionnalités musicales ou communautaires futures.(VeT bot)
+Le bot communautaire pjsk a pour but de crée du lien, avec un systeme de gacha, un jeu type fast type, echange de carte, et choix de gif teto aleatoire.
 De nouvelles fonctions peuvent être ajoutées, modifiées ou supprimées à tout moment sans préavis.
 
 3. Utilisation autorisée
