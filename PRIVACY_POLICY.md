@@ -1,8 +1,8 @@
 🔒 Privacy Policy – Discord Bot
 
-Dernière mise à jour : 6 octobre 2025
+Dernière mise à jour : 7 juillet 2026
 Propriétaire : teddybears76
-Nom du bot : VeT
+Nom du bot : VeT, PJSK meme and gameplay bot
 
 1. Introduction
 
